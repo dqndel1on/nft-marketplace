@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <div>
       <Seo title="Gokyo NFT | Lake of NFT's" subtitle="Lake of NFT's"></Seo>
       <main className="text-red-500" style={{ minHeight: window?.innerHeight }}>
-        Hello World
+        NFT Marketplace
       </main>
       <footer></footer>
     </div>
